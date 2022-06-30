@@ -1,0 +1,24 @@
+* Opgave 1: Jeres første program
+
+Dette er oplægget til jeres første rigtige opgave i programmering.
+
+** Lektie
+I kapitel 4 om print statements [[https://learn.arcade.academy/en/latest/chapters/04_print_statement/print_statement.html][04_print_statement]] er alle de oplysninger, I har brug for.
+
+** Opgaver
+1. Åbn i første omgang filen =Opgave_01.py= og se indholdet i den.
+2. ~Kør~ efterfølgende programmet. I kan gøre det direkte i jeres IDE eller gennem jeres terminal. Hvis I kører det gennem terminalen skal I skrive ~python3 Opgave_01.py~.
+3. I skal personliggøre jeres program. Find på noget interessant at skrive om jer selv.
+
+   Teksten skal være mindst 4 linjer lang. Anvend mindst én =escape-karakter= (=escape code=).
+4. Kør jeres program. Find ud af, hvordan programmes køres i jeres IDE/editor.
+5. ~Commit~ og ~push~ jeres program løbende til =github=.
+** Tjekliste
+Har I husket at:
+- indsætte jeres kode i filen =Opgave_01.py=?
+- ændre på eksemplet fra opgaven?
+- skrive jeres egne personlige tekster? Var der mindst 4 linjers tekst?
+- =committe= og =pushe= jeres ændringer til jeres =repos=?
+- sørge for, at jeres program taler korrekt dansk? Stavning? Tegnsætning? Store og små bogstaver?
+- benytte mindst én =escape code=?
+- tjekke om I kan finde jeres egen kode på =github.com=?
